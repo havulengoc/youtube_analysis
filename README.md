@@ -1,5 +1,7 @@
 # Youtube Personal History Data Analysis
 One of the most well-known websites that we visit frequently, regardless of ages or purposes, is YouTube. We are curious to know whether this popular video-streaming platform has a significant influence in the authors’ lives and get insights about our watching habits on YouTube.
+<img width="893" alt="cover" src="https://user-images.githubusercontent.com/47218596/219479013-4ffc3921-f89a-486c-a6f7-afcf025125dd.png"
+style = "display: inline-block; margin: 0 auto; max-width: 300px">
 
 # Table of content
 This project is written in R and it consists 2 parts: Pulling personal Youtube history data and Analyzing relevant data.
