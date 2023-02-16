@@ -18,4 +18,4 @@ Besides that, we used different packages, and each of them should be installed b
 + `lubridate`
 
 # Important points of analysis
-Although all information is included in the `Rmarkdown` file, we will display some important features here as the main points of our analysis. 
+Although all information is included in the `Rmarkdown` file, we will display some important features <a href = "https://www.canva.com/design/DAFN9yB6rV8/4VEEyd3uZpOmRC5_ZC0adA/view?utm_content=DAFN9yB6rV8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a> as the main points of our analysis. 
